@@ -11,7 +11,13 @@ import remont from "./../../public/assets/remont.png";
 import beach from "./../../public/assets/beach.png";
 import company from "./../../public/assets/company.png";
 import realEstate from "./../../public/assets/real-estate-project.png";
+import luxuryHotel from "./../../public/assets/hotel-project.png";
 export const portfolios = [
+  {
+    id: crypto.randomUUID(),
+    src: luxuryHotel,
+    href: "https://hotel-project-123.netlify.app/",
+  },
   {
     id: crypto.randomUUID(),
     src: realEstate,
