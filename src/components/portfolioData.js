@@ -12,6 +12,8 @@ import beach from "./../../public/assets/beach.png";
 import company from "./../../public/assets/company.png";
 import realEstate from "./../../public/assets/real-estate-project.png";
 import luxuryHotel from "./../../public/assets/hotel-project.png";
+import expenseImg from "./../../public/assets/landing-page.png";
+
 export const portfolios = [
   {
     id: crypto.randomUUID(),
@@ -22,6 +24,11 @@ export const portfolios = [
     id: crypto.randomUUID(),
     src: realEstate,
     href: "https://real-estate-webproject.netlify.app/",
+  },
+  {
+    id: crypto.randomUUID(),
+    src: expenseImg,
+    href: "https://landing-page-expense.netlify.app/",
   },
   {
     id: crypto.randomUUID(),
