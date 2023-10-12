@@ -12,7 +12,7 @@
 
 .image-div {
   animation: morph 8s ease-in-out infinite;
-  background-image: url(/public/assets/photo.jpg);
+  background-image: url(/public/assets/photo.png);
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -20,7 +20,7 @@
   border-radius: 60% 40% 30% 70%/60% 30% 70% 40%;
   position: relative;
   transition: all 1s ease-in-out;
-  height: 50%;
+  height: 60%;
   background-color: #fff;
   min-width: 40%;
   width: 50%;
