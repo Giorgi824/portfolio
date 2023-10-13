@@ -9,21 +9,14 @@ function About() {
       <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
         <Title par1={"About"} />
         <p className="text-xl mt-8">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique
-          maiores reiciendis delectus quo aperiam. Sint saepe eos quod assumenda
-          natus qui aut animi ut? Molestiae incidunt, earum aliquam officiis
-          fuga quod eaque neque labore libero quam ducimus maxime, sed
-          recusandae explicabo aperiam hic similique porro. Ducimus corrupti
-          magni illum sit?
-        </p>
-        <br />
-        <p className="text-xl ">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem iure
-          excepturi eius, temporibus eligendi veniam, consequuntur facilis
-          perferendis dignissimos ab debitis consectetur explicabo hic tempore
-          modi unde. Necessitatibus a doloremque harum repudiandae veritatis
-          animi sed, eaque nisi iste quo officiis! Vitae nemo repellat officia
-          laboriosam excepturi iste iusto, ducimus eos.
+          As a Front-End Web Developer, I possess an impressive arsenal of
+          skills in HTML, CSS, JavaScript, React, Tailwind, and SCSS. I excel in
+          designing and maintaining responsive websites that offer a smooth user
+          experience. My expertise lies in crafting dynamic, engaging interfaces
+          through writing clean and optimized code and utilizing cutting-edge
+          development tools and techniques. I am also a team player who thrives
+          in collaborating with cross-functional teams to produce outstanding
+          web applications.
         </p>
       </div>
     </div>

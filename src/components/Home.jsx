@@ -13,12 +13,8 @@ function Home() {
             I'm a Front-end Web Developer
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Enim
-            eveniet libero laborum iure, mollitia, dolores sunt magni quidem eos
-            amet nisi consectetur voluptatem fugit aperiam accusamus? Deserunt
-            autem aut doloremque esse iure aspernatur mollitia, omnis at tempora
-            error temporibus aperiam magni nisi exercitationem eveniet non
-            dolores. Harum natus aspernatur culpa.
+            Hi, I'm Giorgi Gonadze. A passionate Front-end Web Developer based
+            in Tbilisi, Georgia.
           </p>
           <div>
             <Link to="portfolio" smooth duration={500}>
