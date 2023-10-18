@@ -14,6 +14,7 @@ import realEstate from "./../../public/assets/real-estate-project.png";
 import luxuryHotel from "./../../public/assets/hotel-project.png";
 import expenseImg from "./../../public/assets/landing-page.png";
 import eCommerce from "./../../public/assets/eCommerce.png";
+import foodApp from "./../../public/assets/food-app.png";
 
 export const portfolios = [
   {
@@ -50,6 +51,11 @@ export const portfolios = [
     id: crypto.randomUUID(),
     src: magicmassage,
     href: "https://magicmassage.netlify.app/",
+  },
+  {
+    id: crypto.randomUUID(),
+    src: foodApp,
+    href: "https://food-app-1234.netlify.app/",
   },
   {
     id: crypto.randomUUID(),
