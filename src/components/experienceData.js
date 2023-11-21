@@ -7,6 +7,7 @@ import gitLogo from "../../public/assets/logos/github.png";
 import tailwindLogo from "../../public/assets/logos/tailwind.png";
 import jqueryLogo from "../../public/assets/logos/jquery.png";
 import bootstrapLogo from "../../public/assets/logos/bootstrap.png";
+import reduxLogo from "../../public/assets/logos/redux.svg";
 export const techs = [
   {
     id: crypto.randomUUID(),
@@ -32,12 +33,12 @@ export const techs = [
     title: "React",
     style: "shadow-[#53c1de]",
   },
-  // {
-  //   id: crypto.randomUUID(),
-  //   src: typeScriptLogo,
-  //   title: "TypeScript",
-  //   style: "shadow-[#007acc]",
-  // },
+  {
+    id: crypto.randomUUID(),
+    src: reduxLogo,
+    title: "Redux",
+    style: "shadow-[#764abc]",
+  },
   {
     id: crypto.randomUUID(),
     src: gitLogo,
