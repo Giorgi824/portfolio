@@ -2,12 +2,12 @@ import htmlLogo from "../../public/assets/logos/html.png";
 import cssLogo from "../../public/assets/logos/css.png";
 import javaScriptLogo from "../../public/assets/logos/js.png";
 import reactLogo from "../../public/assets/logos/react.png";
-import typeScriptLogo from "../../public/assets/logos/typescript.png";
 import gitLogo from "../../public/assets/logos/github.png";
 import tailwindLogo from "../../public/assets/logos/tailwind.png";
 import jqueryLogo from "../../public/assets/logos/jquery.png";
 import bootstrapLogo from "../../public/assets/logos/bootstrap.png";
 import reduxLogo from "../../public/assets/logos/redux.svg";
+import sassLogo from "../../public/assets/logos/sass.png";
 export const techs = [
   {
     id: crypto.randomUUID(),
@@ -50,6 +50,12 @@ export const techs = [
     src: tailwindLogo,
     title: "Tailwind",
     style: "shadow-[#16bcb8]",
+  },
+  {
+    id: crypto.randomUUID(),
+    src: sassLogo,
+    title: "Sass / Scss",
+    style: "shadow-[#cd6799]",
   },
   {
     id: crypto.randomUUID(),
